@@ -1,0 +1,17 @@
+G:\datos\Mis documentos\GitHub\GameMuladores\GameMuladores\bin\Debug\GameMuladores.exe.config
+G:\datos\Mis documentos\GitHub\GameMuladores\GameMuladores\bin\Debug\GameMuladores.exe
+G:\datos\Mis documentos\GitHub\GameMuladores\GameMuladores\bin\Debug\GameMuladores.pdb
+G:\datos\Mis documentos\GitHub\GameMuladores\GameMuladores\bin\Debug\Telerik.WinControls.dll
+G:\datos\Mis documentos\GitHub\GameMuladores\GameMuladores\bin\Debug\Telerik.WinControls.UI.dll
+G:\datos\Mis documentos\GitHub\GameMuladores\GameMuladores\bin\Debug\TelerikCommon.dll
+G:\datos\Mis documentos\GitHub\GameMuladores\GameMuladores\bin\Debug\Telerik.WinControls.xml
+G:\datos\Mis documentos\GitHub\GameMuladores\GameMuladores\bin\Debug\Telerik.WinControls.UI.xml
+G:\datos\Mis documentos\GitHub\GameMuladores\GameMuladores\obj\x86\Debug\GameMuladores.csprojAssemblyReference.cache
+G:\datos\Mis documentos\GitHub\GameMuladores\GameMuladores\obj\x86\Debug\GameMuladores.RadForm1.resources
+G:\datos\Mis documentos\GitHub\GameMuladores\GameMuladores\obj\x86\Debug\GameMuladores.Properties.Resources.resources
+G:\datos\Mis documentos\GitHub\GameMuladores\GameMuladores\obj\x86\Debug\GameMuladores.csproj.GenerateResource.cache
+G:\datos\Mis documentos\GitHub\GameMuladores\GameMuladores\obj\x86\Debug\GameMuladores.exe.licenses
+G:\datos\Mis documentos\GitHub\GameMuladores\GameMuladores\obj\x86\Debug\GameMuladores.csproj.CoreCompileInputs.cache
+G:\datos\Mis documentos\GitHub\GameMuladores\GameMuladores\obj\x86\Debug\GameMuladores.csproj.CopyComplete
+G:\datos\Mis documentos\GitHub\GameMuladores\GameMuladores\obj\x86\Debug\GameMuladores.exe
+G:\datos\Mis documentos\GitHub\GameMuladores\GameMuladores\obj\x86\Debug\GameMuladores.pdb
